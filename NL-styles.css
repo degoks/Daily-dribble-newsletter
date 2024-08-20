@@ -1,0 +1,80 @@
+.main{
+    margin-top: px;
+}
+
+.header{
+    color: #121212;
+    font-weight: bold;
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stadium-img{
+    width: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+}
+
+.about-p{
+    font-weight: regular;
+    font-style: italic;
+    width: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+}
+
+.email-input{
+    display: block;
+    width: 230px;
+    border: 3px solid #121212;
+    
+    text-align: center;
+    font-weight: bold;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 9px;
+    
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 5px;
+}
+
+.join-btn{
+    background-color: #121212;
+    color: white;
+    display: block;
+    width: 246px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #121212;
+    
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.terms-link{
+    font-size: 14px;
+    font-style: italic;
+    
+    color: #121212;
+    width:fit-content;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.a-terms{
+    color: #121212;
+}
